@@ -1,0 +1,15 @@
+*{
+	padding :0px;
+	margin :0px;
+}
+.body{
+	background-color:#3877D6;
+}
+
+.container{
+	width:960px;
+	margin: 0 auto;
+	background-color:white;
+	height :400px;
+	margin-top:10px;
+}
